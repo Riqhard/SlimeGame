@@ -1,0 +1,37 @@
+
+Deep with in the woods of Englands countryside, there is a hidden school.This school is for young mages and wizards alike and it has been here for a quite some time. This school is called Hogwards. One of the Hogwards meny students is currently in  a deep trouble as she has yet to be able to cast a spell. 
+
+
+@char Hermilone.Emotions/Mouth>Talking,Emotions/Eyes>Mad pos:60,28
+This young wizards name is Hermilone. Hermilone is well known of her knowledge in spells and runes, but her biggest weakness is her inability to cast any spells. For quite some time now Hermilone has tryed to find the secret for casting, but in search for this 'secret' she is about to find something a bit different.
+
+
+@char Hermilone.Emotions/Mouth>Talking,Emotions/Eyes>Mad
+Hermilone: Dammit this old Library. There is nothing about casting here.
+
+@char Hermilone.Emotions/Mouth>Shock,Emotions/Eyes>Squint
+Hermilone: Cough cought... 
+
+@char Hermilone.Emotions/Mouth>Talking,Emotions/Eyes>Angry
+Hermilone: And this is why nobody uses books anymore. Dust and crumbling pages everywhere. Where is that old house keeper anyway. He should atleast once and a while clean this place up.
+
+@char Hermilone.Emotions/Mouth>Angry,Emotions/Eyes>ClosedAngry
+Hermilone: Argh. 
+
+@char Hermilone.Emotions/Mouth>Talking,Emotions/Eyes>Squint
+Hermilone: How am I suppose to find the secret to casting from all of this.
+
+@char Hermilone.Emotions/Mouth>Default,Emotions/Eyes>Angry
+Hermilone grabs on to a book on a bookshelf and she hears adoball click. 
+
+@char Hermilone.Emotions/Mouth>Shock,Emotions/Eyes>Wide
+Hermilone: What was that? 
+
+The bookshelf moves and opens to the side revealing hidden room behind.
+
+@char Hermilone.Emotions/Mouth>Happy,Emotions/Eyes>Happy
+Hermilone: This-. This has to be it! This is where I find the secret behind Casting.
+
+Hermilone eagerly jumps on in and starts her search.
+
+@stop

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - SpawnPoint
+  - Forest
+  - DeadEnemy
+  - Pickup
+  - XPParent
+  - EnemyParent
+  - PauseMenu
+  - OptionsMenu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Obstacles
+  - Forest
+  - Enemy
+  - Dead
+  - MapEdge
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BOTTOM
+    uniqueID: 1040520685
+    locked: 0
+  - name: MIDDLE
+    uniqueID: 2541138687
+    locked: 0
+  - name: TOP
+    uniqueID: 2153430741
+    locked: 0
+  - name: player
+    uniqueID: 2728887179
+    locked: 0
+  - name: UI
+    uniqueID: 2592618613
+    locked: 0

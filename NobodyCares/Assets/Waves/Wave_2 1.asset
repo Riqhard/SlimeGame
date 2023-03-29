@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df2be24b6b60c524ab7aff31009f3d4a, type: 3}
+  m_Name: Wave_2 1
+  m_EditorClassIdentifier: 
+  name: Wave 2 RedSlimes
+  enemyPrefabs:
+  - {fileID: 3195144258572673404, guid: 28c82cb57f6fcad4da919c0de6242ee1, type: 3}
+  countOfEnemies: 200
+  massMulti: 5
+  healthMulti: 4
+  speedMulti: 1
+  bossWave: 0

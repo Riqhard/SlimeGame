@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20d5755bbee59d44db3bce208fe94969, type: 3}
+  m_Name: WandOfMagic
+  m_EditorClassIdentifier: 
+  itemName: Magic Ball
+  itemID: 0
+  itemDescription: Shoots a magic bolt from the tip of the wand toward the closes
+    enemy dealing heavy dmg and small knockback.
+  maxUpgradeAmount: 10
+  currentUpgradeLevel: 0
+  itemPrefab: {fileID: 8442244707323878845, guid: 97f2d744d121b414290444a6db1f500f, type: 3}
